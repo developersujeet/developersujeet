@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sujeetdey6@gmail.com
-- 😄 Pronouns: Dev Sujeet
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 
 <!---
